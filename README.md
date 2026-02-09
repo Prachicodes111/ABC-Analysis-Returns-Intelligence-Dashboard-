@@ -1,7 +1,7 @@
 # ABC-Analysis-Returns-Intelligence-Dashboard-
 This project focuses on order performance, returns analysis, platform contribution, and ABC classification for a jewellery brand using Power BI
 
-![Dashboard Preview](images/dashboard_overview.png)
+![Dashboard Preview](preview.png)
 
 ## 📌 Project Overview
 This project focuses on **order performance, returns analysis, platform contribution, and ABC classification** for a **jewellery brand ** using **Power BI**.
